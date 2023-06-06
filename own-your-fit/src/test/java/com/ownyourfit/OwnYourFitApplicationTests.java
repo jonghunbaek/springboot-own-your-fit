@@ -1,4 +1,4 @@
-package com.ownyourfit.ownyourfit;
+package com.ownyourfit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
