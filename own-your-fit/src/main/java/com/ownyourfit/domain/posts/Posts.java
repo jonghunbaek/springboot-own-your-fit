@@ -21,7 +21,7 @@ public class Posts {
 	@Column(length = 500, nullable = false)
 	private String title;
 	
-	@Column(columnDefinition = "TEXT", nullable = false)
+	@Column(length = 1000, nullable = false)
 	private String content;
 	
 	private String author;
