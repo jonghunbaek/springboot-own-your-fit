@@ -1,6 +1,6 @@
 # springboot-own-your-fit
 자신만의 운동 루틴을 저장하고, 운동을 기록하는 서비스
-2023.06.06 ~
+2023.06.06 ~ 일시 중단(06.14)
 
 stack - spring boot 3.1.0, java17, spring data jpa, oracle, jQuery, gradle, eclipse 4.22.0
 
